@@ -3,13 +3,17 @@
 I'm a software developer passionate about open-source, machine learning, and writing clean code.
 
 ### 🔭 I'm currently working on
-- AI-based data pipelines and web apps
+- Applications of LLMs in Software Engineering
+- Classical Software Engineering
+- Code Corpora Analysis / Large Codebase analytics
+- AI4Code
 
 ### 🌱 I'm learning
-- Advanced Deep Learning techniques and distributed systems
+- Applications of AI in SE
+- Advanced Deep Learning, AI and LLMs
 
 ### 🛠 Skills
-- **Languages:** Python, JavaScript, C++  
+- **Languages:** Python, Java, C, C++  
 - **Frameworks:** Flask, FastAPI, TensorFlow  
 - **Tools:** Git, Docker, Kubernetes
 
@@ -21,8 +25,8 @@ I'm a software developer passionate about open-source, machine learning, and wri
 ![Subhajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhajitsaha01&show_icons=true&theme=radical)
 
 ### 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/subhajitsaha)
-- [Email](mailto:email@example.com)
+- [LinkedIn](https://linkedin.com/in/subhajitsaha01)
+- [Email](mailto:subhajitsaha.formal@gmail.com)
 
 ### ❤️ Interests
-Gaming | Reading | Tech Blogging | Music
+Writing | Reading | Tech Blogging | Music
