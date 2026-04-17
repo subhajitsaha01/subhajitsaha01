@@ -1,12 +1,11 @@
 # 👋 Hello, I'm Subhajit
 
-I'm a software developer passionate about open-source, machine learning, and writing clean code.
+I'm a software developer passionate about software engineering, open-source, machine learning, ai and writing clean code.
 
 ### 🔭 I'm currently working on
-- Applications of LLMs in Software Engineering
-- Classical Software Engineering
+- Applications of AI/LLMs in Software Engineering
+- Software Engineering
 - Code Corpora Analysis / Large Codebase analytics
-- AI4Code
 
 ### 🌱 I'm learning
 - Applications of AI in SE
@@ -14,12 +13,8 @@ I'm a software developer passionate about open-source, machine learning, and wri
 
 ### 🛠 Skills
 - **Languages:** Python, Java, C, C++  
-- **Frameworks:** Flask, FastAPI, TensorFlow  
-- **Tools:** Git, Docker, Kubernetes
-
-### 🚀 Projects
-- 
-- 
+- **Frameworks:** Flask, Spring, TensorFlow, Pytorch, Sklearn  
+- **Tools:** Git
 
 ### 📈 GitHub Stats
 ![Subhajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhajitsaha01&show_icons=true&theme=radical)
@@ -29,4 +24,4 @@ I'm a software developer passionate about open-source, machine learning, and wri
 - [Email](mailto:subhajitsaha.formal@gmail.com)
 
 ### ❤️ Interests
-Writing | Reading | Tech Blogging | Music
+Writing | Reading | Coding & Building Stuff
