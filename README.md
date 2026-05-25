@@ -17,7 +17,7 @@ I'm a software developer passionate about software engineering, open-source, mac
 - **Tools:** Git
 
 ### 📈 GitHub Stats
-![Subhajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhajitsaha01&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitsaha01&theme=tokyonight" alt="mystreak"/>
 
 ### 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/subhajitsaha01)
